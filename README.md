@@ -2,3 +2,4 @@
 Sample repository to test webhooks delivery
 
 foo
+bar
